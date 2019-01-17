@@ -1,0 +1,13 @@
+C:\Users\Jorge\source\repos\arrays\arrays\bin\Debug\netcoreapp2.1\arrays.deps.json
+C:\Users\Jorge\source\repos\arrays\arrays\bin\Debug\netcoreapp2.1\arrays.runtimeconfig.json
+C:\Users\Jorge\source\repos\arrays\arrays\bin\Debug\netcoreapp2.1\arrays.runtimeconfig.dev.json
+C:\Users\Jorge\source\repos\arrays\arrays\bin\Debug\netcoreapp2.1\arrays.dll
+C:\Users\Jorge\source\repos\arrays\arrays\bin\Debug\netcoreapp2.1\arrays.pdb
+C:\Users\Jorge\source\repos\arrays\arrays\obj\Debug\netcoreapp2.1\arrays.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\arrays\arrays\obj\Debug\netcoreapp2.1\arrays.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\source\repos\arrays\arrays\obj\Debug\netcoreapp2.1\arrays.AssemblyInfoInputs.cache
+C:\Users\Jorge\source\repos\arrays\arrays\obj\Debug\netcoreapp2.1\arrays.AssemblyInfo.cs
+C:\Users\Jorge\source\repos\arrays\arrays\obj\Debug\netcoreapp2.1\arrays.dll
+C:\Users\Jorge\source\repos\arrays\arrays\obj\Debug\netcoreapp2.1\arrays.pdb
+E:\CodiGO\Semana 4\practica\arrays\obj\Debug\netcoreapp2.1\arrays.dll
+E:\CodiGO\Semana 4\practica\arrays\obj\Debug\netcoreapp2.1\arrays.pdb
